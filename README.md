@@ -8,7 +8,7 @@ The goal of this repo is to collect resources that will help everyone learn how 
 
 ### Topics
 
-- How to write a science module
+- [How to write a science module](https://github.com/codeforscience/learning/issues/1)
 
 
 
